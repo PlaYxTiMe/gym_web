@@ -1,0 +1,106 @@
+body {
+    background-color: moccasin;
+    font-family: DFKai-SB, Microsoft JhengHei;
+
+}
+
+.h1title {
+    color: red;
+    background-color: lightsteelblue;
+    text-align: center;
+    font-size: 35pt;
+    height: 3rem;
+    border-radius: 12px;
+    margin: 5px 10px;
+    padding: 12px;
+}
+
+.sub-title {
+    display: inline-block;
+    color: rgb(92, 134, 9);
+    background-color: lightsteelblue;
+    text-align: center;
+    border-radius: 12px;
+    margin: 20px 10px;
+    padding: 12px;
+
+}
+
+#container {
+    width: 95%;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.text-1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0 2rem;
+    font-weight: 900;
+}
+
+.text-2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px rgb(9, 8, 20) solid;
+    background-color: rgb(66, 125, 235);
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    padding: 12px;
+}
+
+.text-3 {
+    text-align: left;
+}
+
+.solgan {
+    font-size: 2rem;
+    color: rgb(187, 8, 8);
+    font-style: italic;
+}
+
+#good-link a {
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+#picture img {
+    border-radius: 15px;
+}
+
+table {
+    width: 95%;
+    margin: 10px auto;
+    height: 200px;
+}
+
+table th {
+    background-color: rgb(35, 92, 197);
+    color: #fff;
+}
+
+#BMI {
+    border: 2px rgb(9, 8, 20) solid;
+    background-color: yellow;
+}
+
+input,
+button,
+textarea {
+    font-size: 20px;
+}
+
+form {
+    background-color: brown;
+    border-radius: 15px;
+    padding: 1rem;
+}
+
+form a {
+    font-size: 35px;
+}
+
+button {
+    margin: 15px;
+    font-size: 35px;
+    border-radius: 10px;
+    background-color: rgb(238, 238, 113);
+}
